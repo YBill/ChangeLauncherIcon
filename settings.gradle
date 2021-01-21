@@ -1,0 +1,2 @@
+rootProject.name='ChangeLauncherIcon'
+include ':app'
